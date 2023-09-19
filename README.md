@@ -1,6 +1,6 @@
 # Towards Accelerating Model Parallelism in Distributed Deep Learning Systems
 
-data repository for this paper.
+Data repository for this paper.
 
 
 ## Authors
